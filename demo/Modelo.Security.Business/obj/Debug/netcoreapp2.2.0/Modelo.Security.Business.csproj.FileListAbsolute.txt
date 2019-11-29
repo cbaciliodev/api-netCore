@@ -1,0 +1,3 @@
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp2.2.0\Modelo.Security.Business.csprojAssemblyReference.cache
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp2.2.0\Modelo.Security.Business.AssemblyInfoInputs.cache
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp2.2.0\Modelo.Security.Business.AssemblyInfo.cs

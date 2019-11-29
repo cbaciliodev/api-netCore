@@ -1,0 +1,8 @@
+D:\visual\modelo\demo\Modelo.Security.Models\bin\Debug\netcoreapp2.2.0\Modelo.Security.Models.deps.json
+D:\visual\modelo\demo\Modelo.Security.Models\bin\Debug\netcoreapp2.2.0\Modelo.Security.Models.dll
+D:\visual\modelo\demo\Modelo.Security.Models\bin\Debug\netcoreapp2.2.0\Modelo.Security.Models.pdb
+D:\visual\modelo\demo\Modelo.Security.Models\obj\Debug\netcoreapp2.2.0\Modelo.Security.Models.csprojAssemblyReference.cache
+D:\visual\modelo\demo\Modelo.Security.Models\obj\Debug\netcoreapp2.2.0\Modelo.Security.Models.AssemblyInfoInputs.cache
+D:\visual\modelo\demo\Modelo.Security.Models\obj\Debug\netcoreapp2.2.0\Modelo.Security.Models.AssemblyInfo.cs
+D:\visual\modelo\demo\Modelo.Security.Models\obj\Debug\netcoreapp2.2.0\Modelo.Security.Models.dll
+D:\visual\modelo\demo\Modelo.Security.Models\obj\Debug\netcoreapp2.2.0\Modelo.Security.Models.pdb

@@ -1,0 +1,11 @@
+D:\visual\modelo\demo\Modelo.Security.DataAcces\bin\Debug\netcoreapp2.1\Modelo.Security.DataAcces.deps.json
+D:\visual\modelo\demo\Modelo.Security.DataAcces\bin\Debug\netcoreapp2.1\Modelo.Security.DataAcces.dll
+D:\visual\modelo\demo\Modelo.Security.DataAcces\bin\Debug\netcoreapp2.1\Modelo.Security.DataAcces.pdb
+D:\visual\modelo\demo\Modelo.Security.DataAcces\bin\Debug\netcoreapp2.1\Modelo.Security.Models.dll
+D:\visual\modelo\demo\Modelo.Security.DataAcces\bin\Debug\netcoreapp2.1\Modelo.Security.Models.pdb
+D:\visual\modelo\demo\Modelo.Security.DataAcces\obj\Debug\netcoreapp2.1\Modelo.Security.DataAcces.csprojAssemblyReference.cache
+D:\visual\modelo\demo\Modelo.Security.DataAcces\obj\Debug\netcoreapp2.1\Modelo.Security.DataAcces.AssemblyInfoInputs.cache
+D:\visual\modelo\demo\Modelo.Security.DataAcces\obj\Debug\netcoreapp2.1\Modelo.Security.DataAcces.AssemblyInfo.cs
+D:\visual\modelo\demo\Modelo.Security.DataAcces\obj\Debug\netcoreapp2.1\Modelo.Security.DataAcces.csproj.CopyComplete
+D:\visual\modelo\demo\Modelo.Security.DataAcces\obj\Debug\netcoreapp2.1\Modelo.Security.DataAcces.dll
+D:\visual\modelo\demo\Modelo.Security.DataAcces\obj\Debug\netcoreapp2.1\Modelo.Security.DataAcces.pdb

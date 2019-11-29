@@ -1,0 +1,13 @@
+D:\visual\modelo\demo\Modelo.Security.Business\bin\Debug\netcoreapp3.0\Modelo.Security.Business.deps.json
+D:\visual\modelo\demo\Modelo.Security.Business\bin\Debug\netcoreapp3.0\Modelo.Security.Business.dll
+D:\visual\modelo\demo\Modelo.Security.Business\bin\Debug\netcoreapp3.0\Modelo.Security.Business.pdb
+D:\visual\modelo\demo\Modelo.Security.Business\bin\Debug\netcoreapp3.0\Modelo.Security.DataAcces.dll
+D:\visual\modelo\demo\Modelo.Security.Business\bin\Debug\netcoreapp3.0\Modelo.Security.Models.dll
+D:\visual\modelo\demo\Modelo.Security.Business\bin\Debug\netcoreapp3.0\Modelo.Security.DataAcces.pdb
+D:\visual\modelo\demo\Modelo.Security.Business\bin\Debug\netcoreapp3.0\Modelo.Security.Models.pdb
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp3.0\Modelo.Security.Business.csprojAssemblyReference.cache
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp3.0\Modelo.Security.Business.AssemblyInfoInputs.cache
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp3.0\Modelo.Security.Business.AssemblyInfo.cs
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp3.0\Modelo.Security.Business.csproj.CopyComplete
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp3.0\Modelo.Security.Business.dll
+D:\visual\modelo\demo\Modelo.Security.Business\obj\Debug\netcoreapp3.0\Modelo.Security.Business.pdb
